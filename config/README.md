@@ -1,6 +1,3 @@
-# TwoStepsFromJava-Cloud-Feign
+# Chapter07 统一配置中心--Config
 
-Spring Cloud 示例项目：结合Ribbon和Feign实现声明式服务调用。
-
-
-Spring Cloud Release Trains: [Dalston.SR1](http://projects.spring.io/spring-cloud/) 
+这是Spring Cloud Config示例项目

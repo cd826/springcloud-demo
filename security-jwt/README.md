@@ -1,6 +1,3 @@
-# TwoStepsFromJava-Cloud-Feign
+# Chapter10 微服务应用安全--Security
 
-Spring Cloud 示例项目：结合Ribbon和Feign实现声明式服务调用。
-
-
-Spring Cloud Release Trains: [Dalston.SR1](http://projects.spring.io/spring-cloud/) 
+基于JWT的认证示例
