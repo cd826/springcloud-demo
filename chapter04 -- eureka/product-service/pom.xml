@@ -6,7 +6,7 @@
 
     <parent>
         <groupId>cd826dong.cloud</groupId>
-        <artifactId>springcloud-book-eureka-parent</artifactId>
+        <artifactId>springcloud-book-parent</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <relativePath>../parent</relativePath>
     </parent>
