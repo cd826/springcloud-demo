@@ -24,7 +24,7 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
 
         <guava.version>20.0</guava.version>
-        <swagger.version>2.6.1</swagger.version>
+        <swagger.version>2.10.0</swagger.version>
     </properties>
 
     <dependencies>
